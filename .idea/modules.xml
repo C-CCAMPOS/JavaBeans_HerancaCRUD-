@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBeans_HerancaCRUD.iml" filepath="$PROJECT_DIR$/.idea/JavaBeans_HerancaCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula2_JavaBeansHerancaCRUD.iml" filepath="$PROJECT_DIR$/Aula2_JavaBeansHerancaCRUD.iml" />
     </modules>
   </component>
 </project>
